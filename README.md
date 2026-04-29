@@ -26,6 +26,9 @@ This GitHub repo is for **documentation and pointers only**. It does **not** con
 - Anyone who wants **clear, in-game controls** for automation (start/stop, farm vs. orders-style flows where applicable) and **safety-oriented** responses when conditions look risky.
 
 ---
+<p>
+  <img src="images/Screenshot_6.png" alt="Zynra Spawner Protection — in-game screenshot" width="680" />
+</p>
 
 ## Main ideas (plain language)
 
