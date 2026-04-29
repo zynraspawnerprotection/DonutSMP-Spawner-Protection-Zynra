@@ -1,6 +1,7 @@
 # DonutSMP-Spawner-Protection-Zynra
 
 **Spawner Protection DonutSMP — Zynra Spawner Protection**
+![Zynra Spawner Protection](images/logospawner.png)
 
 Official site: **[https://zynra.net](https://zynra.net)**  
 Demo / overview video: **[YouTube](https://www.youtube.com/watch?v=kMNkPtVP0aM)**
