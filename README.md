@@ -27,7 +27,7 @@ This GitHub repo is for **documentation and pointers only**. It does **not** con
 
 ---
 <p>
-  <img src="images/Screenshot_6.png" alt="Zynra Spawner Protection — in-game screenshot" width="680" />
+  <img src="/Screenshot_6.png" alt="Zynra Spawner Protection — in-game screenshot" width="680" />
 </p>
 
 ## Main ideas (plain language)
